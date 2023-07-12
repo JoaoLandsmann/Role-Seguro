@@ -7,4 +7,6 @@ Site desenvolvido como uma iniciativa da Rede Calábria em parceria com a Coca-C
 
 # Informações Relevantes
 
-Website hospedado no servidor netlify | https://roleseguro2022.netlify.app
+- Website completamente responsivo.
+  
+- Hospedado no servidor netlify | https://roleseguro2022.netlify.app
